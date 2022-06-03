@@ -7,11 +7,6 @@
 ## What does this hack do?
 - **It will alert the answer to the wordle.**
 
-
-## 🤖 Features with Problems (will be fixed soon):
-
-- None for now, report to Issues if you find an issue!
-
 #### I am not responsible for your actions with these cheats.
 
 ## How To Use:
